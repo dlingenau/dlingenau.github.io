@@ -446,6 +446,11 @@ textarea {
 	width: 33.33333%;
 }
 
+.center{
+	margin: auto;
+	width: 100%;
+}
+
 .col-five {
 	width: 41.66667%;
 }
